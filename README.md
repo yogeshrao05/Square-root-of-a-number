@@ -25,7 +25,7 @@ RegisterNumber: 212222110055
 
 ## Output:
 ```
-![image](https://github.com/yogeshrao05/Square-root-of-a-number/assets/122008288/9ecb7367-72c1-4c78-9210-c59c06f5f0f9)
+![Screenshot 2023-05-10 154900](https://github.com/yogeshrao05/Square-root-of-a-number/assets/122008288/f598e85c-1848-4027-ba50-d669ea868d57)
 
 
 
