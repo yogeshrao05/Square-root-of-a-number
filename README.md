@@ -24,7 +24,9 @@ RegisterNumber: 212222110055
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+```
+![image](https://github.com/yogeshrao05/Square-root-of-a-number/assets/122008288/9ecb7367-72c1-4c78-9210-c59c06f5f0f9)
+
 
 
 ## Result:
