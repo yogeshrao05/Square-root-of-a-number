@@ -22,6 +22,13 @@ Developed by:yogesh rao S D
 RegisterNumber: 212222110055 
 */
 ```
+def newton_method(number , number_ietrs = 100):
+    a = float(number)
+    for i in range (number_ietrs):
+        number = 0.5 * (number + a/number)
+    return number 
+a=int(input())
+print("square root of the number:",newton_method(a))
 
 ## Output:
 ```
